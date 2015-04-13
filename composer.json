@@ -1,0 +1,13 @@
+{
+    "name": "long/learn-php-slim",
+    "require": {
+        "slim/slim": "~2.6",
+        "doctrine/orm": "~2.5"
+    },
+    "authors": [
+        {
+            "name": "Long Nguyen",
+            "email": "olragon@gmail.com"
+        }
+    ]
+}
