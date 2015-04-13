@@ -9,5 +9,10 @@
             "name": "Long Nguyen",
             "email": "olragon@gmail.com"
         }
-    ]
+    ],
+    "autoload": {
+        "psr-0": {
+            "App\\": "src/"
+        }
+    }
 }
