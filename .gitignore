@@ -1,2 +1,4 @@
 vendor
 composer.lock
+.sublime-project
+config/config.php
